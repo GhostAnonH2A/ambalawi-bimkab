@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mawu-ambalawi.bimakab.go.id/desa/-/slot-thailand/sitemap.xml
